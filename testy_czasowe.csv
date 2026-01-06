@@ -1,0 +1,21 @@
+Operacja,Wejście,lists,structure,Różnica bezwzględna [s],Różnica procentowa [%]
+szukanie otoczenia punktu w siatce; 1 warstwa,siatka,0.7264,0.4265,0.3,41.2954
+szukanie otoczenia punktu w siatce; 1 warstwa,big_siatka,40.6646,32.3544,8.3101,20.4358
+szukanie otoczenia punktu w siatce; 1 warstwa,pasek,17.4264,9.3607,8.0657,46.2846
+szukanie otoczenia punktu w siatce; 1 warstwa,gwiazdy,14.2416,5.534,8.7076,61.142
+szukanie otoczenia punktu w siatce; 2 warstwy,siatka,3.8434,11.5766,-7.7332,-201.2074
+szukanie otoczenia punktu w siatce; 2 warstwy,big_siatka,6.2357,3.7168,2.5189,40.3949
+szukanie otoczenia punktu w siatce; 2 warstwy,pasek,2.5894,1.6278,0.9616,37.1347
+szukanie otoczenia punktu w siatce; 2 warstwy,gwiazdy,4.3492,6.6881,-2.3389,-53.7774
+szukanie otoczenia trójkąta w siatce; 1 warstwa,siatka,5.5475,3.6558,1.8918,34.101
+szukanie otoczenia trójkąta w siatce; 1 warstwa,big_siatka,9.4889,0.4114,9.0774,95.664
+szukanie otoczenia trójkąta w siatce; 1 warstwa,pasek,3.7606,0.2669,3.4937,92.9031
+szukanie otoczenia trójkąta w siatce; 1 warstwa,gwiazdy,6.4735,0.3794,6.0941,94.1392
+szukanie otoczenia trójkąta w siatce; 2 warstwy,siatka,7.915,7.3725,0.5425,6.8546
+szukanie otoczenia trójkąta w siatce; 2 warstwy,big_siatka,10.8482,0.9115,9.9366,91.5973
+szukanie otoczenia trójkąta w siatce; 2 warstwy,pasek,5.0039,0.845,4.1588,83.1124
+szukanie otoczenia trójkąta w siatce; 2 warstwy,gwiazdy,10.0878,0.9104,9.1774,90.9748
+wyszukiwanie punktu w siatce,siatka,0.5543,0.3668,0.1875,33.8232
+wyszukiwanie punktu w siatce,big_siatka,11.4597,5.0042,6.4555,56.3323
+wyszukiwanie punktu w siatce,pasek,9.0358,4.9692,4.0666,45.0055
+wyszukiwanie punktu w siatce,gwiazdy,6.9282,2.8435,4.0847,58.9579

@@ -109,5 +109,5 @@ Pre-rendered outputs are in `visualizations/` (JPG) and `gify/` (GIF).
 ## Notes
 
 - All comments and markdown headings are in Polish.
-- `visualizer.main` refers to the `bitalg` PyPI package (see commented alternative import in cell 0).
+- Cell 0 imports the visualiser as `from visualizer.main import Visualizer`. If this fails, switch to the fully-qualified form `from bitalg.visualizer.main import Visualizer` (both resolve to the same class from the `bitalg` PyPI package).
 - Random meshes `random_0.txt` / `random_1.txt` used in benchmarks are not committed; regenerate them with `generate_uniform_points()` before running benchmark cells.
